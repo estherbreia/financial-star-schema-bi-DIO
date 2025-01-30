@@ -1,5 +1,6 @@
 # 📊 Projeto: Modelagem de Dados no Power BI – Esquema Estrela
-📌 Descrição do Projeto
+
+## 📌 Descrição do Projeto  
 Este projeto faz parte de um desafio prático de modelagem de dados no Power BI, utilizando um esquema estrela. O objetivo foi transformar a tabela única Financial Sample em um modelo dimensional eficiente, criando tabelas fato e dimensão para melhor organização e análise dos dados.
 
 
